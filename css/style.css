@@ -69,7 +69,7 @@ form {
   font-size: 6rem;
 }
 
-/* 컨테이너 스타일 */
+
 .container {
   display: flex;
   flex-direction: column;
@@ -78,7 +78,7 @@ form {
   color: #fff;
 }
 
-/* 폼 스타일 */
+
 form {
   display: flex;
   flex-direction: column;
