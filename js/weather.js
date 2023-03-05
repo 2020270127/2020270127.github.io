@@ -22,3 +22,5 @@ function onGeoFail() {
 function Weather() {
   navigator.geolocation.getCurrentPosition(onGeoOk, onGeoFail);
 }
+
+Weather();
